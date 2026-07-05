@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋, I'm Pooja P
 
-<!--
-**POOJA-P1056/POOJA-P1056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th Year Artificial Intelligence & Machine Learning Student
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Web Developer, Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning
+- FastAPI
+- React
+
+💼 Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- SQL
+- REST APIs
+- Git & GitHub
+
+🚀 Projects
+- AI Job Assistant (Currently Working)
+- Portfolio Website
+- Tourism Website
+- E-Commerce Website
+
+🎯 🎯 Career Goal
+To become a Software Developer specializing in Full Stack Web Development, building scalable, secure, and user-friendly web applications while continuously improving my technical and problem-solving skills.
+
+📫 Connect with me
+LinkedIn: https://www.linkedin.com/in/your-linkedin-id
+
+📧 Email
+poojappoojap736@gmail.com
