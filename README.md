@@ -1,5 +1,5 @@
 ## 💫 About Me:
-## 💫 About Me:<br># Hi 👋, I'm Pooja P<br>🎓 4th Year Artificial Intelligence & Machine Learning Student<br><br><br>
+## 💫 About Me:<br> Hi 👋, I'm Pooja P<br>🎓 4th Year Artificial Intelligence & Machine Learning Student<br><br><br>
 💻 Aspiring Full Stack Web Developer | Software Developer<br><br><br><br>
 👩‍💻 About Me<br><br> 🔭 I'm currently working on **AI Job Assistant**<br><br> 
 🌱 I'm currently learning **FastAPI, React, and Full Stack Web Development**<br><br>
